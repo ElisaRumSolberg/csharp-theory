@@ -1,0 +1,15 @@
+C:\Users\elisa\OneDrive\Masaüstü\csharp-theory\L_02_DataTypes\bin\Debug\net9.0\L_02_DataTypes.exe
+C:\Users\elisa\OneDrive\Masaüstü\csharp-theory\L_02_DataTypes\bin\Debug\net9.0\L_02_DataTypes.deps.json
+C:\Users\elisa\OneDrive\Masaüstü\csharp-theory\L_02_DataTypes\bin\Debug\net9.0\L_02_DataTypes.runtimeconfig.json
+C:\Users\elisa\OneDrive\Masaüstü\csharp-theory\L_02_DataTypes\bin\Debug\net9.0\L_02_DataTypes.dll
+C:\Users\elisa\OneDrive\Masaüstü\csharp-theory\L_02_DataTypes\bin\Debug\net9.0\L_02_DataTypes.pdb
+C:\Users\elisa\OneDrive\Masaüstü\csharp-theory\L_02_DataTypes\obj\Debug\net9.0\L_02_DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisa\OneDrive\Masaüstü\csharp-theory\L_02_DataTypes\obj\Debug\net9.0\L_02_DataTypes.AssemblyInfoInputs.cache
+C:\Users\elisa\OneDrive\Masaüstü\csharp-theory\L_02_DataTypes\obj\Debug\net9.0\L_02_DataTypes.AssemblyInfo.cs
+C:\Users\elisa\OneDrive\Masaüstü\csharp-theory\L_02_DataTypes\obj\Debug\net9.0\L_02_DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\elisa\OneDrive\Masaüstü\csharp-theory\L_02_DataTypes\obj\Debug\net9.0\L_02_DataTypes.sourcelink.json
+C:\Users\elisa\OneDrive\Masaüstü\csharp-theory\L_02_DataTypes\obj\Debug\net9.0\L_02_DataTypes.dll
+C:\Users\elisa\OneDrive\Masaüstü\csharp-theory\L_02_DataTypes\obj\Debug\net9.0\refint\L_02_DataTypes.dll
+C:\Users\elisa\OneDrive\Masaüstü\csharp-theory\L_02_DataTypes\obj\Debug\net9.0\L_02_DataTypes.pdb
+C:\Users\elisa\OneDrive\Masaüstü\csharp-theory\L_02_DataTypes\obj\Debug\net9.0\L_02_DataTypes.genruntimeconfig.cache
+C:\Users\elisa\OneDrive\Masaüstü\csharp-theory\L_02_DataTypes\obj\Debug\net9.0\ref\L_02_DataTypes.dll
