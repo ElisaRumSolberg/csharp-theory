@@ -173,6 +173,134 @@ for (let i = 50; i>=1 ; i--) {
     sum+=i;
 }
 console.log(sum);
-*/
+
 // While dongusu
 // 1 den 10 kadar yazdir
+let i = 1;
+while (i < 11) {
+  console.log(i);
+  i++;
+}
+
+let k = 1;
+while (k <= 20) {
+  if (k % 2 == 0) {
+    console.log(k);
+  }
+  k++;
+}
+
+let l = 1;
+while (l <= 20) {
+  console.log(l);
+  if (l == 12) {
+    break;
+  }
+  l++;
+}
+
+// do while loop
+
+let i= 1;
+do {
+  console.log(i);
+  i++;
+} while (i<=10);
+
+let k= 0;
+let sum= 0;
+do {
+  if (k%2==1) {
+    
+    sum+=k;
+  }
+  k++;
+  
+} while (k<=20);
+console.log(sum);
+
+
+
+// break continue
+
+let i = 1;
+while (i<=20) {
+  console.log(i);
+  if (i==8) {
+    break; 
+  }
+  i++
+}
+//12345678
+
+let k=1;
+while (k<=20) {
+  if (k==8) {
+    k++;
+    continue
+  }
+  console.log(k)
+  k++;
+ 
+}
+//123456791011121314151617181920
+
+
+
+//Multiplication Table
+
+for (let i = 0; i <=10; i++) {
+  for (let j=0; j<=10; j++) {
+    console.log(i+"x"+j+"=" +i*j)
+    
+  }
+  console.log("=====================================");
+}
+
+
+
+//prime number finding app
+
+let num = Number(prompt("enter a number"));
+let result = true;
+let resultElementPrime = document.querySelector("#info");
+
+if (num <= 1) {
+  resultElementPrime.innerHTML = `${num} is not a prime number`;
+} else {
+  for (let i = 2; i <= Math.floor(num / 2); i++) {
+    if (num % i == 0) {
+      result = false;
+      break;
+    }
+  }
+  if (result) {
+    resultElementPrime.innerHTML = `${num} is a prime number`;
+  } else {
+    resultElementPrime.innerHTML = `${num} is not a prime number`;
+  }
+  
+}
+*/
+//Finding the Factorial of a Number
+
+let num1 = Number(
+  prompt("Enter a number for Finding the Factorial of the Number")
+);
+let resultFactorial =1;
+let resultElementFactorial =document.querySelector("#info")
+
+if (num1<0) {  
+  resultElementFactorial.innerHTML= ` Factorial is not defined for negative numbers`
+  
+} else {
+  for (let i = 1; i <=num1; i++) {
+    resultFactorial=resultFactorial*i; 
+  }
+  resultElementFactorial.innerHTML=`${num1}! =${resultFactorial} `
+}
+if (num1=0) { 
+  resultElementFactorial.innerHTML=`${num1}! = 1`;
+ 
+}
+        
