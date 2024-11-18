@@ -281,7 +281,7 @@ if (num <= 1) {
   }
   
 }
-*/
+
 //Finding the Factorial of a Number
 
 let num1 = Number(
@@ -303,4 +303,31 @@ if (num1=0) {
   resultElementFactorial.innerHTML=`${num1}! = 1`;
  
 }
-        
+      
+
+//Armstrong Number
+/* What is an Armstrong Number?
+An Armstrong number (also known as a Narcissistic Number or
+Pluperfect Digital Invariant (PPDI)) is a number 
+where the sum of its digits raised to 
+the power of the number of digits equals the number itself.
+
+let num =(prompt("Enter a Number "));
+let resultElementAmstrong=document.querySelector("#info");
+let power = num.length;//(ussu belirledim)
+
+let sum=0;
+
+for (let i = 0; i <num.length; i++) {
+  let digit =num.charAt(i); // rakamlara ayirdim
+  sum += Math.pow(parseInt(digit), power);
+  
+}
+if (sum == parseInt(num)) {
+  resultElementAmstrong.innerHTML=`${num} is an Armstrong number.`
+} else {
+  resultElementAmstrong.innerHTML=`${num} is not an Armstrong number.`
+ 
+}
+*/
+
