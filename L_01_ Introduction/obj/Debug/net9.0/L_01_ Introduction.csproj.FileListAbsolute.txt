@@ -1,0 +1,15 @@
+C:\Users\elisa\OneDrive\Masaüstü\csharp-theory\L_01_ Introduction\bin\Debug\net9.0\L_01_ Introduction.exe
+C:\Users\elisa\OneDrive\Masaüstü\csharp-theory\L_01_ Introduction\bin\Debug\net9.0\L_01_ Introduction.deps.json
+C:\Users\elisa\OneDrive\Masaüstü\csharp-theory\L_01_ Introduction\bin\Debug\net9.0\L_01_ Introduction.runtimeconfig.json
+C:\Users\elisa\OneDrive\Masaüstü\csharp-theory\L_01_ Introduction\bin\Debug\net9.0\L_01_ Introduction.dll
+C:\Users\elisa\OneDrive\Masaüstü\csharp-theory\L_01_ Introduction\bin\Debug\net9.0\L_01_ Introduction.pdb
+C:\Users\elisa\OneDrive\Masaüstü\csharp-theory\L_01_ Introduction\obj\Debug\net9.0\L_01_ Introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisa\OneDrive\Masaüstü\csharp-theory\L_01_ Introduction\obj\Debug\net9.0\L_01_ Introduction.AssemblyInfoInputs.cache
+C:\Users\elisa\OneDrive\Masaüstü\csharp-theory\L_01_ Introduction\obj\Debug\net9.0\L_01_ Introduction.AssemblyInfo.cs
+C:\Users\elisa\OneDrive\Masaüstü\csharp-theory\L_01_ Introduction\obj\Debug\net9.0\L_01_ Introduction.csproj.CoreCompileInputs.cache
+C:\Users\elisa\OneDrive\Masaüstü\csharp-theory\L_01_ Introduction\obj\Debug\net9.0\L_01_ Introduction.sourcelink.json
+C:\Users\elisa\OneDrive\Masaüstü\csharp-theory\L_01_ Introduction\obj\Debug\net9.0\L_01_ Introduction.dll
+C:\Users\elisa\OneDrive\Masaüstü\csharp-theory\L_01_ Introduction\obj\Debug\net9.0\refint\L_01_ Introduction.dll
+C:\Users\elisa\OneDrive\Masaüstü\csharp-theory\L_01_ Introduction\obj\Debug\net9.0\L_01_ Introduction.pdb
+C:\Users\elisa\OneDrive\Masaüstü\csharp-theory\L_01_ Introduction\obj\Debug\net9.0\L_01_ Introduction.genruntimeconfig.cache
+C:\Users\elisa\OneDrive\Masaüstü\csharp-theory\L_01_ Introduction\obj\Debug\net9.0\ref\L_01_ Introduction.dll
