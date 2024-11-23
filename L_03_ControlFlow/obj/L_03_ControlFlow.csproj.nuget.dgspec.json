@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elisa\\OneDrive\\Masaüstü\\csharp-theory\\L_01_introduction\\L_01_Introduction.csproj": {}
+    "C:\\Users\\elisa\\OneDrive\\Masaüstü\\csharp-theory\\L_02_DataTypes\\L_03_ControlFlow\\L_03_ControlFlow.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elisa\\OneDrive\\Masaüstü\\csharp-theory\\L_01_introduction\\L_01_Introduction.csproj": {
+    "C:\\Users\\elisa\\OneDrive\\Masaüstü\\csharp-theory\\L_02_DataTypes\\L_03_ControlFlow\\L_03_ControlFlow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elisa\\OneDrive\\Masaüstü\\csharp-theory\\L_01_introduction\\L_01_Introduction.csproj",
-        "projectName": "L_01_Introduction",
-        "projectPath": "C:\\Users\\elisa\\OneDrive\\Masaüstü\\csharp-theory\\L_01_introduction\\L_01_Introduction.csproj",
+        "projectUniqueName": "C:\\Users\\elisa\\OneDrive\\Masaüstü\\csharp-theory\\L_02_DataTypes\\L_03_ControlFlow\\L_03_ControlFlow.csproj",
+        "projectName": "L_03_ControlFlow",
+        "projectPath": "C:\\Users\\elisa\\OneDrive\\Masaüstü\\csharp-theory\\L_02_DataTypes\\L_03_ControlFlow\\L_03_ControlFlow.csproj",
         "packagesPath": "C:\\Users\\elisa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elisa\\OneDrive\\Masaüstü\\csharp-theory\\L_01_introduction\\obj\\",
+        "outputPath": "C:\\Users\\elisa\\OneDrive\\Masaüstü\\csharp-theory\\L_02_DataTypes\\L_03_ControlFlow\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
